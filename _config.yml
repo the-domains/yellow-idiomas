@@ -1,4 +1,3 @@
-layout_spectrum: 0.8079369873739779
 typography_spectrum: 0.9465884151868522
 color:
   brandStrength: 0.04126503434963524
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.8079369873739779
 name: Yellow Idiomas
+title: YELLOW IDIOMAS
